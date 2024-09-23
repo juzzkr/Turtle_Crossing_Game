@@ -24,7 +24,6 @@ A fun and engaging turtle racing game where players navigate a turtle through a 
    ```bash
    git clone https://github.com/juzzkr/Turtle_Racing_Game.git
    cd Turtle_Racing_Game
-   pip install -r requirements.txt
    python main.py
 
 
